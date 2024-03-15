@@ -1,14 +1,14 @@
-Peer-to-Peer (P2P) Communication System in Python
+PEER-TO-PEER (P2P) COMMUNICATION SYSTEM IN PYTHON
 
 Este es un sistema simple de comunicación peer-to-peer (P2P) implementado en Python que permite a los usuarios conectarse entre sí en una red local y comunicarse a través de mensajes.
 Características principales:
 
-    Comunicación P2P: Los usuarios pueden conectarse entre sí directamente en una red local sin necesidad de un servidor centralizado.
-    Conexiones manuales y automáticas: Los usuarios pueden conectarse manualmente ingresando la dirección IP y el puerto del vecino o realizar un escaneo automático para descubrir vecinos disponibles en la red local.
-    Mensajería: Los usuarios pueden enviar mensajes a todos los vecinos conectados o seleccionar un usuario específico para enviar un mensaje.
+    COMUNICACIÓN P2P: Los usuarios pueden conectarse entre sí directamente en una red local sin necesidad de un servidor centralizado.
+    CONEXIONES MANUALES Y AUTOMÁTICAS: Los usuarios pueden conectarse manualmente ingresando la dirección IP y el puerto del vecino o realizar un escaneo automático para descubrir vecinos disponibles en la red local.
+    MENSAJERÍA: Los usuarios pueden enviar mensajes a todos los vecinos conectados o seleccionar un usuario específico para enviar un mensaje.
     Gestión de conexiones activas: El sistema realiza un seguimiento de las conexiones activas y muestra una lista de los vecinos conectados en cualquier momento.
 
-Uso:
+USO:
 
 Para ejecutar el sistema, simplemente inicia el script Python-P2P.py en tu entorno de Python. El sistema mostrará un menú interactivo que te guiará a través de las diferentes opciones disponibles, como conectar a un vecino, enviar mensajes, mostrar conexiones activas y más.
 Requisitos:
@@ -16,7 +16,7 @@ Requisitos:
     Python 3.x
     Biblioteca estándar de Python
 
-Construcción y Tecnologías Utilizadas
+CONSTRUCCIÓN Y TECNOLOGÍAS UTILIZADAS
 
 Este sistema de comunicación P2P está construido completamente en Python y hace uso de las siguientes funciones y bibliotecas:
 
@@ -34,6 +34,10 @@ Este sistema de comunicación P2P está construido completamente en Python y hac
 
 Esta combinación de tecnologías y funciones permite la creación de un sistema de comunicación P2P simple pero efectivo en Python.
 
-Contribuciones:
+CONTRIBUCIONES:
 
 ¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, no dudes en abrir un problema o enviar una solicitud de extracción. Cualquier mejora, corrección de errores o nuevas características serán apreciadas.
+
+CONTRIBUIDORES DESTACADOS:
+JHON JAIRO RENDON ZAVALA
+SERGIO LUIS ARCILA QUICENO
