@@ -1,4 +1,4 @@
-PEER-TO-PEER (P2P) COMMUNICATION SYSTEM IN PYTHON
+﻿PEER-TO-PEER (P2P) COMMUNICATION SYSTEM IN PYTHON
 
 Este es un sistema simple de comunicación peer-to-peer (P2P) implementado en Python que permite a los usuarios conectarse entre sí en una red local y comunicarse a través de mensajes.
 Características principales:
@@ -41,3 +41,5 @@ CONTRIBUCIONES:
 CONTRIBUIDORES DESTACADOS:
 JHON JAIRO RENDON ZAVALA
 SERGIO LUIS ARCILA QUICENO
+
+XD 1 2 3
